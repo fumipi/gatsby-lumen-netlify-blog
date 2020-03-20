@@ -8,10 +8,10 @@ exports[`Author renders correctly 1`] = `
     href="/"
   >
     <img
-      alt="test"
+      alt="test"ss
       className="author__photo"
       height="75"
-      src="/photo.jpg"
+      src="/photo.png"
       width="75"
     />
   </a>

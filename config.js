@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://otonabeauty.blog',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'おとなBeauty',
+  subtitle: 'アラフィフおひとりさまのお金をかけずに自分史上最高キレイをめざす暮らしと美容のブログ',
+  copyright: '©otonabeauty All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-108943910-1',
   useKatex: false,
   menu: [
     {
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'ふみ',
+    photo: '/photo.png',
+    bio: '今から自分史上最高にきれいを目指すアラフィフおひとりさま。最近、長年たまったナニカをそぎ落とすことで、ふたたび軽くなろうとしている。',
     contacts: {
       email: '',
       facebook: '#',
