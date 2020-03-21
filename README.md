@@ -1,8 +1,8 @@
 <h3>
-  個人ブログ置き場です。今はやりのGatsbyとNetlifyではじめてみました。
+  個人ブログ置き場です。
 </h3>
 
 <p>
+  今はやりのGatsbyとNetlifyではじめてみました。
   とりあえず書いていきます。
-  http://otonabeauty.blog/
 </p>

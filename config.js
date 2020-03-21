@@ -28,8 +28,8 @@ module.exports = {
       path: '/category/暮らし/'
     },
     {
-      label: '料理',
-      path: '/category/料理/'
+      label: '食べものと料理',
+      path: '/category/食べものと料理/'
     },
     {
       label: '書いている人',
@@ -39,17 +39,17 @@ module.exports = {
   author: {
     name: 'おとなビューティブログ',
     photo: '/photo.png',
-    bio: 'アラフィフおひとりさまが、お金をかけずに自分史上最高キレイを目指すなか、見つけたことなどを書いています。昨日の私に届くように、と願って。',
+    bio: '50歳からの自分史上最高に綺麗になる方法。アラフィフおひとりさまが、お金をかけずにキレイになろうと工夫するなか、自信をもてるようになったことを書いています。',
     contacts: {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: '#',
-      github: '#',
+      twitter: 'fumi49579906',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: '',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
