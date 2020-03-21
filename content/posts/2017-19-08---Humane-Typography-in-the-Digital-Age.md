@@ -2,7 +2,7 @@
 title: 記事の書き方を学ぶ
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "humane-typography-in-the-digital-age"
 category: "Typography"
 tags:
