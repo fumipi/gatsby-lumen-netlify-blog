@@ -4,4 +4,5 @@
 
 <p>
   とりあえず書いていきます。
+  http://otonabeauty.blog/
 </p>
