@@ -12,22 +12,34 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: '全ての記事',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: '美容と健康',
+      path: '/category/美容と健康/'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'おしゃれ',
+      path: '/category/おしゃれ/'
+    },
+    {
+      label: '暮らし',
+      path: '/category/暮らし/'
+    },
+    {
+      label: '料理',
+      path: '/category/料理/'
+    },
+    {
+      label: '書いている人',
+      path: '/pages/about'
+    },
   ],
   author: {
-    name: 'ふみ',
+    name: 'おとなビューティブログ',
     photo: '/photo.png',
-    bio: '今から自分史上最高きれいを目指すアラフィフおひとりさま。最近、長年たまったナニカをそぎ落とすことで、ふたたび軽くなろうとしている。',
+    bio: 'アラフィフおひとりさまが、お金をかけずに自分史上最高キレイを目指すなか、見つけたことなどを書いています。昨日の私に届くように、と願って。',
     contacts: {
       email: '',
       facebook: '',
