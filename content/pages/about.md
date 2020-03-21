@@ -1,13 +1,9 @@
 ---
 title: "書いている人について"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "https://cdn.pixabay.com/photo/2014/11/04/21/14/feather-517181_1280.jpg"
 ---
 
-アラフィフおひとりさまです。最近、長年たまったナニカをそぎ落とすことで、ふたたび軽くなろうとしています。
+アラフィフおひとりさまです。最近、長年たまったナニカをそぎ落とすことで、ふたたび軽くなろうとしています。昨日の私が知っていたら、心が楽になっただろうということを書いていきます。
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![軽い羽根](https://cdn.pixabay.com/photo/2014/11/04/21/14/feather-517181_1280.jpg)
